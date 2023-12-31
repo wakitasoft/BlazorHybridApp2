@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="BlazorHybridApp.app/BlazorHybridApp">
+      <BCSymbolMapName>BlazorHybridApp.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>BlazorHybridApp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\wakitatetsushi\Library\Caches\Xamarin\mtbs\builds\BlazorHybridApp\fcf80bdeef801654bfd50f9c650a37d647152c35464a1803b16e820593651cff\obj\Debug\net8.0-ios\iossimulator-x64\mtouch-symbols.list</SymbolFile>
+      <DSymName>BlazorHybridApp.app.dSYM</DSymName>
+      <SourceProjectPath>D:\Main_Folder\Timing\TimingSoft_development\Blazor\BlazorHybridApp</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

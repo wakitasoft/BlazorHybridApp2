@@ -1,0 +1,1 @@
+D:\Main_Folder\Timing\TimingSoft_development\Blazor\BlazorHybridApp\BlazorHybridApp.csproj;x64
